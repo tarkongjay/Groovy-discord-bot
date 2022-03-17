@@ -1,0 +1,35 @@
+
+
+{
+  "YOUTUBE_API_KEY": "AIzaSyBh3IuBJGuNTYp70xeMSUpOBMmW2S5gFSA",
+
+
+  "EMOJI_ARROW": "<a:arrow:835440679759904790>",
+  "EMOJI_DONE": "<:done:850294227278757910>",
+  "EMOJI_ERROR": "<:error:850277602073247784>",
+  "EMOJI_STARTED_PLAYING": "<a:announce:848804023460954173>",
+  "EMOJI_LINE":"<a:line:850276939294048256>",
+
+
+  "BOT_ID": "898924289972129843",
+  "BOT_OWNER_ID": "841901577811001367", 
+  "SERVER_INVITE": "https://discord.gg/MB8Hw3fVT3", 
+
+  "PREFIX": "?", 
+  "BOT_PREFIX": "?",
+
+
+  "BOT_STATUS2":"?help",
+  "BOT_STATUS3": "Website: www.weproject.cf",
+  
+  "BOT_PRESENCE" : "WATCHING",
+
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 900,
+  "PRUNING": true,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
+
+
+     
